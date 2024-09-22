@@ -1,6 +1,6 @@
 ### Hi there I'm Austin 👋
 
-I'm an entry-level Software Engineer who has done extensive work with Java and Kotlin over the last 7 years.
+I'm a Software Engineer who has done extensive work with Java and Kotlin over the last 7 years.
 
 The main projects that I've been working on are [KirBot](https://kirbot.mrkirby153.com), a modular and highly configurable Discord moderation bot and [Giveaways](https://giveaways.mrkirby153.com), a battle tested giveaway discord bot capable of handling giveaways with hundreds of thousands of entrants.
 
